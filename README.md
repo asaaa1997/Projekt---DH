@@ -10,6 +10,7 @@ Pozwala:
   - przeglądać zdjęcia (razem z powiększeniem ich oraz przewijaniem), 
   - wysłać intencje poprzez formularz, 
   - zobaczyć adres na mapie. 
+
 Zawiera również odnośniki do social mediów Oazy.
 
 Autorką projektu jest Joanna Pajor.
