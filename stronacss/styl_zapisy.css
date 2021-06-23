@@ -1,0 +1,73 @@
+h1
+{
+	color:#d1e8e2;
+	text-align:center;
+	margin-top:5%;
+}
+
+fieldset
+{
+	text-align:center;
+	width:30%;
+	margin:0 auto;
+}
+
+#wybór
+{
+	margin-top:5%;
+}
+
+#typ
+{
+	display:block;
+}
+
+#przycisk
+{
+	margin-left:43%;
+	margin-top:3%;
+	margin-bottom:15%;
+	width:15%;
+	height:50px;
+	border-radius:50%;
+	text-align:center;
+	background-color:rgb(217,176,140);
+	border: 1px solid rgb(217,176,140);
+	font-family: 'Quando', serif;
+	font-weight:bold;
+}
+
+legend
+{
+	color:#ffdcbd;
+}
+
+label
+{
+	color:#d1e8e2;
+}
+
+@media all and (max-width: 800px){
+
+#typ
+{
+	font-size:x-small;
+}
+
+}
+
+
+@media all and (max-width: 600px){
+
+#przycisk
+{
+	width:20%;
+	margin-left:40%;
+}
+
+#typ
+{
+	font-size:xx-small;
+}
+
+}

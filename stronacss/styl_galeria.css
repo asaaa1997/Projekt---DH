@@ -1,0 +1,37 @@
+.imgG1, .imgG2
+{
+	width:20%;
+	margin-left:2%;
+	margin-top:1%;
+	margin-bottom:2%;
+}
+
+h1
+{
+	color:#d1e8e2;
+	text-align:center;
+	margin-top:4%;
+}
+
+
+@media all and (max-width: 700px){
+
+	.imgG1, .imgG2
+	{
+		display:block;
+		width:80%;
+		margin:0 auto;
+		margin-bottom:2%;
+	}
+
+}
+
+
+@media all and (max-width: 600px){
+
+h1
+{
+	font-size:medium;
+}
+
+}

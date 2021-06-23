@@ -1,0 +1,126 @@
+#left
+{
+	width:80%;
+	display:inline-block;
+	float:left;
+}
+
+#right
+{
+	width:20%;
+	display:inline-block;
+}
+
+
+#znakroku
+{
+	margin:0 auto;
+}
+
+#znapis, #cznapis
+{
+	background-color:#2c3531;
+	color:white;
+	font-weight:bold;
+	height:50px;
+	width:100%;
+	text-align:center;
+	padding-top:8%;
+	display:inline-block;
+}
+
+#znak
+{
+	height:100%;
+	width:100%;
+}
+
+#book
+{
+	width:100%;
+	margin-top:3%;
+}
+
+.sigla
+{
+	color:#d1e8e2;
+	text-align:center;
+	margin-top:0;
+	font-weight:bold;
+}
+
+#witaj
+{
+	color:#d1e8e2;
+	text-align:center;
+	margin-top:8%;
+	
+}
+
+#links
+{
+	display:none;
+}
+
+#kim
+{
+	color:#d1e8e2;
+	text-align:center;
+	margin-top:4%;
+}
+
+#kimopis
+{
+	color:#ffdcbd;
+	margin-top:4%;
+	margin-left:15%;
+	margin-right:15%;
+}
+
+#zapisy
+{
+	color:#d1e8e2;
+	text-align:center;
+	margin-top:4%;
+}
+
+#zapisy a
+{
+	text-decoration: none;
+	font-weight:bold;
+	color:#ffdcbd;
+}
+
+#zapisy a:hover
+{
+	font-size:115%;
+}
+
+#blueimp-gallery-carousel
+{
+	width:70%;
+}
+
+@media all and (max-width: 800px){
+
+#witaj
+{
+	font-size:medium;	
+}
+
+#kim
+{
+	font-size:medium;
+}
+
+#kimopis, #zapisy, .sigla
+{
+	font-size:medium;
+}
+
+#znapis, #cznapis
+{
+	font-size:small;
+}
+
+}

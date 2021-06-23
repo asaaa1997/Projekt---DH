@@ -1,0 +1,53 @@
+h1
+{
+	color:#d1e8e2;
+	text-align:center;
+	margin-top:5%;
+}
+
+.dane
+{
+	color:#d1e8e2;
+	margin-left:3%;
+	margin-top:3%;
+	text-align:center;
+	
+}
+
+#kontakty
+{
+	margin-bottom:10%;
+	margin-top:8%;
+}
+
+#mapa
+{
+	text-align:center;
+	margin-bottom:10%;
+}
+
+iframe
+{
+	width:50%;
+	height:50vh;
+}
+
+@media all and (max-width: 600px){
+
+iframe
+{
+	width:60%;
+	height:25vh;
+}
+
+h1
+{
+	font-size:medium;
+}
+
+#kontakty
+{
+	font-size:x-small;
+}
+
+}
